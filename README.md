@@ -1,4 +1,4 @@
 {
-  "dialog": "true",
+  "dialog": "false",
   "link": null
 }
